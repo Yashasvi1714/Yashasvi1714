@@ -1,6 +1,5 @@
-# Yashasvi Balla's GitHub Profile
+# Welcome to my GitHub! 🚀  
 
-Welcome to my GitHub! 🚀  
 I’m Yashasvi Balla, an aspiring AI/ML enthusiast, and I specialize in **Machine Learning**, **Deep Learning**, and **Data Science**. Recently, I’m completed my Master’s in **Electrical and Computer Engineering** at the University of Alabama at Birmingham (UAB). With a solid academic foundation and hands-on industry experience, I am passionate about using data and advanced models to solve real-world challenges.
 
 ## 🚀 About Me
