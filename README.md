@@ -31,7 +31,8 @@ I’m Yashasvi Balla, an aspiring AI/ML enthusiast, and I specialize in **Machin
 
 ## 📄 Resume
 You can view my **resume** and learn more about my academic and professional journey by visiting the following link:  
-[My Resume](#)
+[My Resume](https://drive.google.com/file/d/19D7O6lDDUBlsWposr9gHYu4pZa-Y15cf/view?usp=drive_link)
+
 
 ## 📬 Let’s Connect!
 - 💼 **LinkedIn**: [Yashasvi Balla](https://www.linkedin.com/in/yashasviballa/)
