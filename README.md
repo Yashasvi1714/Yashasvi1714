@@ -35,7 +35,7 @@ You can view my **resume** and learn more about my academic and professional jou
 
 ## 📬 Let’s Connect!
 - 💼 **LinkedIn**: [Yashasvi Balla](https://www.linkedin.com/in/yashasviballa/)
-- 📧 **Email**: [yashasvi.balla@example.com](mailto:yashasvib74@example.com)
+- 📧 **Email**: [yashasvib74@gmail.com](mailto:yashasvib74@gmail.com)
 
 Feel free to explore my repositories and connect with me for collaboration opportunities, ideas, or just a technical chat! Let’s innovate together. 🌍
 
